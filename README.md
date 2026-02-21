@@ -93,34 +93,6 @@ Bash-Scripting/
 
 ------------------------------------------------------------------------
 
-## 🚀 How to Run the Scripts
-
-1.  Clone the repository:
-
-``` bash
-git clone https://github.com/your-username/bash-scripting.git
-```
-
-2.  Navigate into the directory:
-
-``` bash
-cd bash-scripting
-```
-
-3.  Make a script executable:
-
-``` bash
-chmod +x script_name.sh
-```
-
-4.  Run the script:
-
-``` bash
-./script_name.sh
-```
-
-------------------------------------------------------------------------
-
 ## 📈 Next Steps
 
 -   Practice writing more complex automation scripts\
