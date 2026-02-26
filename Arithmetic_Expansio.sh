@@ -1,0 +1,19 @@
+#!/bin/bash
+
+
+: 'numb1=5
+numb2=10
+
+result=$(($numb1 + $numb2))
+
+echo "The sum of $numb1 + $numb2 = $result"
+'
+
+lenght=5
+width=10
+
+
+parameter=$((2* ($lenght*$width)))
+result=$(($lenght * $width))
+
+echo "The area of the square which is calculate using lenght $lenght x width $width which gives you the number $result."
