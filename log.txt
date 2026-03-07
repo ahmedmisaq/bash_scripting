@@ -1,0 +1,15 @@
+2026-02-12 09:14:03 INFO: Application started successfully
+2026-02-12 09:14:05 DEBUG: Loading configuration from /etc/app/config.yaml
+2026-02-12 09:14:07 INFO: Database connection established
+2026-02-12 09:15:12 WARNING: High memory usage detected (78%)
+2026-02-12 09:16:44 ERROR: Failed to authenticate user ID 45821
+2026-02-12 09:17:01 INFO: Retrying authentication process
+2026-02-12 09:17:03 INFO: User ID 45821 logged in successfully
+2026-02-12 09:18:27 DEBUG: Processing request POST /api/v1/orders
+2026-02-12 09:18:29 INFO: Order #89342 created successfully
+2026-02-12 09:19:10 WARNING: Disk space remaining below 15%
+2026-02-12 09:20:33 DEBUG: Scheduled cleanup task initiated
+2026-02-12 09:21:02 INFO: Cleanup completed, freed 1.2GB space
+2026-02-12 09:22:45 ERROR: Timeout while connecting to external payment gateway
+2026-02-12 09:23:10 INFO: Payment gateway connection restored
+2026-02-12 09:24:55 INFO: Application heartbeat check OK
